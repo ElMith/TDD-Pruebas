@@ -6,7 +6,6 @@ using System.Collections.Generic;
 
 namespace CalculatorTest
 {
-
     [TestClass]
     public class ProxyTest
     {
