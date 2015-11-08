@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CalculatorTest.CalculatorTests">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Test\CalculatorTest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SuperCalculator.Program">
+    <Position X="6.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SuperCalculator.CalcProxy">
+    <Position X="1" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>src\CalcProxy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SuperCalculator.Calculator">
+    <Position X="4.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>src\Calculator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SuperCalculator.Validator">
+    <Position X="5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAABACAAAAAAAAAQAAAAAAAAAAAAAAACACAAAAAAAA=</HashCode>
+      <FileName>src\Validator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CalculatorTest.ProxyTest">
+    <Position X="2.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAICAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAICAAAAAA=</HashCode>
+      <FileName>Test\ProxyTest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Delegate Name="SuperCalculator.SingleBinaryOperation">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAACAAAAAAAAAA=</HashCode>
+      <FileName>src\CalcProxy.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
